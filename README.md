@@ -45,7 +45,7 @@ pw-tests/
   npx playwright install
   ```
 
-### 3️⃣ **Instale o @axe-core/playwright para testes de acessibilidade
+### 3️⃣ **Instale o @axe-core/playwright para testes de acessibilidade**
 
   ```sh
   npm install --save-dev @axe-core/playwright
